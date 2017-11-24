@@ -18,6 +18,7 @@ public class Learngit {
         // TODO code application logic here
         System.out.println("commit 1");
         System.out.println("commit 2");
+        System.out.println("commit 3");
     }
     
 }
